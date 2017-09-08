@@ -11,6 +11,7 @@ Team: h4rdenedzer0
 * [zet](https://github.com/fanfuqiang)
 * icenowy
 * [wnereiz](https://github.com/wnereiz)
+* samson
 
 [Contributors](https://hardenedlinux.github.io/about2)
 
